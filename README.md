@@ -1,6 +1,4 @@
 ### Olá! Eu sou Thailson Diniz
-
-- 🔭 I’m currently working on ..
 - 🌱 Estou estudando JavaScript
 
 <div align="center">
