@@ -12,16 +12,12 @@
   <img align="center" alt="tata-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="tata-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="tata-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="tata-Dart" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png">
+   <img align="center" alt="tata-Dart" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png">
   <img align="center" alt="tata-flutter" height="28" width="30" src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-2038877-1720090.png?f=webp&w=256">
-  <img align="right" alt="tata" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202205/338224_RCeKSpaA.png">
 </div>
   
   ##
   <div>
-  <a href="https://www.youtube.com/channel/UCo9dEAuPUNEnEi91R1cCajQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/thailson.png/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/tataindelicado" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thailson-diniz-3137a81a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
