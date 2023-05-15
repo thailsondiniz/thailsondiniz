@@ -12,7 +12,7 @@
   <img align="center" alt="tata-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="tata-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="tata-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="tata-flutter" height="25" width="30" src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-2038877-1720090.png?f=webp&w=256">
+   <img align="center" alt="tata-flutter" height="28" width="30" src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-2038877-1720090.png?f=webp&w=256">
   <img align="right" alt="tata" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202205/338224_RCeKSpaA.png">
 </div>
   
