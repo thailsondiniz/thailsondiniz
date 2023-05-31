@@ -10,7 +10,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thailsondiniz&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Thailson Diniz github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thailsondiniz&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" alt="Thailson Diniz github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thailsondiniz&layout=compact&hide_border=true&title_color=00FF7F&text_color=ffffff&bg_color=0d1117" />
 </div>
 
