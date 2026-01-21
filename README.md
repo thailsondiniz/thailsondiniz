@@ -37,6 +37,7 @@
 ![Dart](https://img.shields.io/badge/-dart-0D1117?style=for-the-badge&logo=dart&logoColor=blue&labelColor=0D1117)&nbsp; 
 
 <div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thailsondiniz)](https://git.io/streak-stats)
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{thailsondiniz}/count.svg" /></p> 
 <br>
